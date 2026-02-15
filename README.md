@@ -39,26 +39,26 @@ I believe consistency beats motivation 💚
 
 ## 𖤓 Technical Skills
 
-**Languages**  
-Python  
-C++  
+**-Languages**  
+  Python  
+  C++  
 
-**Web Development**  
-HTML  
-CSS  
-Basics of JavaScript  
+**-Web Development**  
+  HTML  
+  CSS  
+  Basics of JavaScript  
 
-**Core Concepts**  
-Data Structures  
-DBMS  
-Object-Oriented Programming  
+**-Core Concepts**  
+  Data Structures  
+  DBMS  
+  Object-Oriented Programming  
 
-**Tools**  
-Git • GitHub • VS Code  
+**-Tools**  
+  Git • GitHub • VS Code  
 
 ---
 
-## 𖤓 2026 Goals
+## 𖤓 Goals
 
 - Solve 200+ DSA problems  
 - Build 3–4 web-based projects  
