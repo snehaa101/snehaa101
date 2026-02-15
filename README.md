@@ -13,7 +13,7 @@ Aspiring Data Scientist • Web Developer
 
 <p align="center">
   ✉️ <a href="mailto:snehadubey1911@gmail.com">Email</a> &nbsp;•&nbsp;
-  🌐 <a href="www.linkedin.com/in/sneha-dubey-b36095369">LinkedIn</a> &nbsp;•&nbsp;
+  🌐 <a href="https://www.linkedin.com/in/sneha-dubey-b36095369/">LinkedIn</a> &nbsp;•&nbsp;
   🌸 <a href="https://instagram.com/snee.haa._">Instagram</a>
 </p>
 
