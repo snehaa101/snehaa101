@@ -1,4 +1,3 @@
-# Hello! I am Sneha Dubey
 <h1 align="center">Sneha Dubey</h1>
 
 <p align="center">
@@ -12,13 +11,20 @@ Aspiring Data Scientist • Web Developer
 
 ---
 
+<p align="center">
+  ✉️ <a href="mailto:snehadubey1911@gmail.com">Email</a> &nbsp;•&nbsp;
+  🌐 <a href="www.linkedin.com/in/sneha-dubey-b36095369">LinkedIn</a> &nbsp;•&nbsp;
+  🌸 <a href="https://instagram.com/snee.haa._">Instagram</a>
+</p>
+
+---
+
 ## 𖤓 About Me
 
-I am a second-year BTech student focused on developing strong fundamentals in programming, problem solving, and web technologies.
-
+I am a 3rd year BTech student focused on developing strong fundamentals in programming, problem solving, and web technologies.
 Currently strengthening Data Structures & Algorithms while exploring Web Development and gradually building towards Data Science.
 
-I value clarity, discipline, and continuous growth.
+I believe consistency beats motivation 💚
 
 ---
 
