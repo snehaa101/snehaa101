@@ -21,7 +21,7 @@ Aspiring Data Scientist • Web Developer
 
 ## 𖤓 About Me
 
-I am a 3rd year BTech student focused on developing strong fundamentals in programming, problem solving, and web technologies.
+I am a BTech student focused on developing strong fundamentals in programming, problem solving, and web technologies.
 Currently strengthening Data Structures & Algorithms while exploring Web Development and gradually building towards Data Science.
 
 I believe consistency beats motivation 💚
@@ -31,7 +31,7 @@ I believe consistency beats motivation 💚
 ## 𖤓 Current Focus
 
 - Data Structures & Algorithms (Python)
-- Frontend Web Development
+- Data Analytics
 - Core Computer Science (DBMS, OOP)
 - Building consistency through daily practice
 
@@ -42,11 +42,6 @@ I believe consistency beats motivation 💚
 **-Languages**  
   Python  
   C++  
-
-**-Web Development**  
-  HTML  
-  CSS  
-  Basics of JavaScript  
 
 **-Core Concepts**  
   Data Structures  
